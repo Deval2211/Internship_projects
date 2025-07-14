@@ -20,10 +20,10 @@ Analyzes clinical trial data using statistical techniques such as t-tests, ANOVA
 ### 5. [Manufacturing Process Statistics](https://colab.research.google.com/drive/1Uial2wzcQTAaehvlu-3rNpjYcP8TZfez?usp=sharing)
 Focuses on applying control charts, capability analysis, and statistical process control (SPC) techniques in a manufacturing environment.
 
-### 6. [IPL Data Analysis](https://colab.research.google.com/drive/1LH_nofavAeASDsx5iFNpasl8kRcDB7Sr?usp=sharing)
+### 6. [IPL Data Analysis](https://colab.research.google.com/drive/1_-_d3vrshYMAKTbr58A5UwM3Yxh-A4DC?usp=sharing)
 Performs data analysis on Indian Premier League cricket matches to extract team statistics, performance insights, and visualizations of trends.
 
-### 7. [Indian Election Data Analysis](https://colab.research.google.com/drive/1Hbv97ZT-axnKxkQQslymiMWPFYog5F7w?usp=sharing)
+### 7. [Indian Election Data Analysis](https://colab.research.google.com/drive/1eEIk58BM5BGLqKaN3mwL_Ubqj0JkbXWj?usp=sharing)
 Analyzes historical Indian election data to identify patterns in voter turnout, winning margins, and party performance across different states and years.
 
 ---
